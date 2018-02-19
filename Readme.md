@@ -24,6 +24,8 @@
 
 ## 2015
 
+- *An introduction to Bioinformatics*. Visit to the University of Tunis. **Tunis, Tunisia**. [Slides](https://github.com/holtzy/Talk/blob/master/2015/ngs_yh_vr_2015_tunis.pdf)
+
 - *Genotyping Durum Wheat using specific allelic capture : an application to detect QTL for WSSMV resistance*. [From Seed to Pasta & beyond](http://www.fstp15.com/wp-content/uploads/2014/09/ROUND-TABLE-EXPO-3-GIUGNO1.pdf). **Bologna, Italy**. [Slides]()
 
 <br>
