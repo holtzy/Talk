@@ -2,7 +2,7 @@
 
 - *An express introduction to R markdown*. IMB-PCTG technical meeting. **Brisbane, Australia**. [slides]()
 
-
+<br>
 
 ## 2017
 
@@ -10,7 +10,7 @@
 
 - *Visualizing data – with R*. Dataviz session of the MARBEC UMR. **Sète, France**. [slides](https://holtzy.github.io/DatavizWithR_Sete_2017/#1), [repo](https://github.com/holtzy/DatavizWithR_Sete_2017).
 
-<br><br><br><br><br>
+<br>
 
 ## 2016
 
@@ -20,13 +20,13 @@
 
 - *The R Graph Gallery: a core collection of R Charts*. Y. Holtz. [5th R french Meeting](). **Toulouse, France**. [Slides](https://github.com/holtzy/Talk/blob/master/2016/HoltzY_LightTalk_RencontresR_2016.pdf)
 
-
+<br>
 
 ## 2015
 
 - *Genotyping Durum Wheat using specific allelic capture : an application to detect QTL for WSSMV resistance*. [From Seed to Pasta & beyond](http://www.fstp15.com/wp-content/uploads/2014/09/ROUND-TABLE-EXPO-3-GIUGNO1.pdf). **Bologna, Italy**. [Slides]()
 
-
+<br>
 
 ## 2014
 
