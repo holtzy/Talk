@@ -12,7 +12,7 @@ bla
 
 ## 2017
 
-- Understanding Surfers through twitter with R. Talk at the [6th R french meeting](http://angletr2017.com). **Anglet**. [slides]()
+- Understanding Surfers through twitter with R. Talk at the [6th R french meeting](http://angletr2017.com). **Anglet**. [slides](https://github.com/holtzy/Talk/blob/master/2017/2017_Anglet_R_meeting/Holtz_LightTalk_RencontresR_2017.pdf)
 
 
 
