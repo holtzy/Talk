@@ -6,7 +6,7 @@ This is the repository where I store all the material used for the presentation 
 
 ## 2018
 
-
+- *An express introduction to R markdown*. IMB-PCTG technical meeting. **Brisbane, Australia**. [slides]()
 
 
 
@@ -22,7 +22,7 @@ This is the repository where I store all the material used for the presentation 
 
 - *The R Graph Gallery: a collection of R Charts*. 11th Apéro Technique OSU OREME. **Montpellier, France**. [Slides](https://github.com/holtzy/Talk/blob/master/2016/Holtz_Talk_Atelier_technique_dec_2016.pdf)
 
-- *Selection for adaptation to high nitrogen was the driving force of tetraploid wheat domestication*. RNA-Seq Day.  **Avignon, France**. PDF
+- *Selection for adaptation to high nitrogen was the driving force of tetraploid wheat domestication*. RNA-Seq Day.  **Avignon, France**. [Slides](https://github.com/holtzy/Talk/blob/master/2016/talk_rnaseq_workshop_avignon_may_2016.pdf)
 
 - *The R Graph Gallery: a core collection of R Charts*. Y. Holtz. [5th R french Meeting](). **Toulouse, France**. [Slides](https://github.com/holtzy/Talk/blob/master/2016/HoltzY_LightTalk_RencontresR_2016.pdf)
 
