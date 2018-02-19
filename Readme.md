@@ -6,7 +6,7 @@
 
 ## 2017
 
-- *Understanding Surfers through twitter with R*. [6th R french meeting](http://angletr2017.com). **Anglet, France**. [slides](https://github.com/holtzy/Talk/blob/master/2017/2017_Anglet_R_meeting/Holtz_LightTalk_RencontresR_2017.pdf)
+- *Understanding Surfers through twitter with R*. [6th R french meeting](http://angletr2017.com). **Anglet, France**. [slides](https://github.com/holtzy/Talk/blob/master/2017/Holtz_LightTalk_RencontresR_2017.pdf)
 
 - *Visualizing data – with R*. Dataviz session of the MARBEC UMR. **Sète, France**. [slides](https://holtzy.github.io/DatavizWithR_Sete_2017/#1), [repo](https://github.com/holtzy/DatavizWithR_Sete_2017).
 
