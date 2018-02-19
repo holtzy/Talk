@@ -26,12 +26,12 @@
 
 - *An introduction to Bioinformatics*. Visit to the University of Tunis. **Tunis, Tunisia**. [Slides](https://github.com/holtzy/Talk/blob/master/2015/ngs_yh_vr_2015_tunis.pdf)
 
-- *Genotyping Durum Wheat using specific allelic capture : an application to detect QTL for WSSMV resistance*. [From Seed to Pasta & beyond](http://www.fstp15.com/wp-content/uploads/2014/09/ROUND-TABLE-EXPO-3-GIUGNO1.pdf). **Bologna, Italy**. [Slides]()
+- *Genotyping Durum Wheat using specific allelic capture : an application to detect QTL for WSSMV resistance*. [From Seed to Pasta & beyond](http://www.fstp15.com/wp-content/uploads/2014/09/ROUND-TABLE-EXPO-3-GIUGNO1.pdf). **Bologna, Italy**. [Slides](https://github.com/holtzy/Talk/blob/master/2015/Presentation_from_BW_to_pasta_2015_05_Italia.pdf)
 
 <br>
 
 ## 2014
 
-- *Disentangling homeologous contigs in allo-tetraploid assembly: application to durum wheat*. [SeqBio-2013](http://www.gdr-bim.cnrs.fr/seqbio2013/). **Montpellier, France**.  [Slides]()
+- *Disentangling homeologous contigs in allo-tetraploid assembly: application to durum wheat*. [SeqBio-2013](http://www.gdr-bim.cnrs.fr/seqbio2013/). **Montpellier, France**.  [Slides](https://github.com/holtzy/Talk/blob/master/2014/recomb-CG-v_y.holtz.pdf)
 
 
