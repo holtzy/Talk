@@ -1,9 +1,3 @@
-# Talks
-
-This is the repository where I store all the material used for the presentation I gave.
-
-
-
 ## 2018
 
 - *An express introduction to R markdown*. IMB-PCTG technical meeting. **Brisbane, Australia**. [slides]()
@@ -16,7 +10,7 @@ This is the repository where I store all the material used for the presentation 
 
 - *Visualizing data – with R*. Dataviz session of the MARBEC UMR. **Sète, France**. [slides](https://holtzy.github.io/DatavizWithR_Sete_2017/#1), [repo](https://github.com/holtzy/DatavizWithR_Sete_2017).
 
-
+<br><br><br><br><br>
 
 ## 2016
 
