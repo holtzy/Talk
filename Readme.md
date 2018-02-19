@@ -20,17 +20,17 @@ This is the repository where I store all the material used for the presentation 
 
 ## 2016
 
-- *The R Graph Gallery: a collection of R Charts*. 11th Apéro Technique OSU OREME. **Montpellier, France**. PDF
+- *The R Graph Gallery: a collection of R Charts*. 11th Apéro Technique OSU OREME. **Montpellier, France**. [Slides](https://github.com/holtzy/Talk/blob/master/2016/Holtz_Talk_Atelier_technique_dec_2016.pdf)
 
 - *Selection for adaptation to high nitrogen was the driving force of tetraploid wheat domestication*. RNA-Seq Day.  **Avignon, France**. PDF
 
-- *The R Graph Gallery: a core collection of R Charts*. Y. Holtz. [5th R french Meeting](). **Toulouse, France**. PDF, Website
+- *The R Graph Gallery: a core collection of R Charts*. Y. Holtz. [5th R french Meeting](). **Toulouse, France**. [Slides](https://github.com/holtzy/Talk/blob/master/2016/HoltzY_LightTalk_RencontresR_2016.pdf)
 
 
 
 ## 2015
 
-- *Genotyping Durum Wheat using specific allelic capture : an application to detect QTL for WSSMV resistance*. From Seed to Pasta & beyond. **Bologna, Italy**. Web Site
+- *Genotyping Durum Wheat using specific allelic capture : an application to detect QTL for WSSMV resistance*. [From Seed to Pasta & beyond](http://www.fstp15.com/wp-content/uploads/2014/09/ROUND-TABLE-EXPO-3-GIUGNO1.pdf). **Bologna, Italy**. [Slides]()
 
 
 
