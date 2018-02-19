@@ -1,9 +1,24 @@
-#Talks
+# Talks
 
-This repo stores all my talk materials.
+This is the repository where I store all the material used for the presentation I gave.
 
-##2018
 
-##2017
 
-##2016
+## 2018
+
+bla
+
+
+
+## 2017
+
+bla
+
+
+
+
+
+
+
+
+
