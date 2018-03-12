@@ -1,6 +1,6 @@
 ## 2018
 
-- *An express introduction to R markdown*. IMB-PCTG technical meeting. **Brisbane, Australia**. [slides]()
+- *An express introduction to R markdown*. IMB-PCTG technical meeting. **Brisbane, Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Introduction_to_Rmarkdown.pdf)
 
 <br>
 
