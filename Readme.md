@@ -1,5 +1,7 @@
 ## 2018
 
+- *Dataviz & Reproducibility for Impactful Research*. NBP Symposium – Psychiatric Epidemiology. **Aarhus, Denmark**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Talk_YanHoltz_Aarhus2018.pdf)
+
 - *An express introduction to R markdown*. IMB-PCTG technical meeting. **Brisbane, Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Introduction_to_Rmarkdown.pdf)
 
 <br>
