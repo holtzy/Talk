@@ -1,5 +1,8 @@
 ## 2018
 
+- *Ten tips for a better data analysis pipeline in research*. Technical meeting. **Brisbane Australia**. [slides]().
+
+
 - *Getting rich with R, arbitrage and cryptocurrencies?*. UseR 2018. **Brisbane, Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Talk_User2018_crypto.pdf), [Repo](https://github.com/holtzy/Crypto-Arbitrage)
 
 - *From Data to Viz | A classification of chart types based on input data format*. UseR 2018. **Brisbane, Australia**. [Poster](https://www.data-to-viz.com/poster.html), [Website](https://www.data-to-viz.com)
