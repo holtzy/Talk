@@ -1,6 +1,6 @@
 ## 2018
 
-- *Ten tips for a better data analysis pipeline in research*. Technical meeting. **Brisbane Australia**. [slides]().
+- *Ten tips for a better data analysis pipeline in research*. Technical meeting. **Brisbane Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Talk_YanHoltz_QBI_August2018.pdf).
 
 
 - *Getting rich with R, arbitrage and cryptocurrencies?*. UseR 2018. **Brisbane, Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Talk_User2018_crypto.pdf), [Repo](https://github.com/holtzy/Crypto-Arbitrage)
