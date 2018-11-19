@@ -1,7 +1,8 @@
 ## 2018
 
-- *Ten tips for a better data analysis pipeline in research*. Technical meeting. **Brisbane Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Talk_YanHoltz_QBI_August2018.pdf).
+- *From Data to Viz | A classification of chart types based on input data format*. Dataviz Meetup 2018. **Sydney, Australia**. [slides](https://www.data-to-viz.com/poster.html), [Website](https://www.data-to-viz.com)
 
+- *Ten tips for a better data analysis pipeline in research*. Technical meeting. **Brisbane Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Talk_YanHoltz_QBI_August2018.pdf).
 
 - *Getting rich with R, arbitrage and cryptocurrencies?*. UseR 2018. **Brisbane, Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Talk_User2018_crypto.pdf), [Repo](https://github.com/holtzy/Crypto-Arbitrage)
 
