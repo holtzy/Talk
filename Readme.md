@@ -1,5 +1,11 @@
 ## 2018
 
+- *From Data to Viz | A classification of chart types based on input data format*. R-Ladies Meetup 2019. **Montpellier, France**. [slides](https://github.com/holtzy/Talk/blob/master/2019/Talk_DatavizMeetup_Montpellier2019.pdf), [Website](https://www.data-to-viz.com)
+
+<br>
+
+## 2018
+
 - *From Data to Viz | A classification of chart types based on input data format*. Dataviz Meetup 2018. **Sydney, Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Talk_DatavizMeetup_Sydney2018.pdf), [Website](https://www.data-to-viz.com)
 
 - *Ten tips for a better data analysis pipeline in research*. Technical meeting. **Brisbane Australia**. [slides](https://github.com/holtzy/Talk/blob/master/2018/Talk_YanHoltz_QBI_August2018.pdf).
