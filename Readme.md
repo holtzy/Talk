@@ -1,5 +1,7 @@
 ## 2019
 
+- *From Data to Viz | A classification of chart types based on input data format*. Dataviz Meetup 2019. **Toulouse, France**. [slides](https://github.com/holtzy/Talk/blob/master/2019/Talk_DatavizMeetup_Toulouse2019.pdf), [Website](https://www.data-to-viz.com)
+
 - *Introduction to Dataviz with ggplot2, RMarkdown and Github*. Two days course for the Master students of the Ecole des Mines. **Alès, France**. [slides](https://www.yan-holtz.com/teaching)
 
 - *From Data to Viz | A classification of chart types based on input data format*. R-Ladies Meetup 2019. **Montpellier, France**. [slides](https://github.com/holtzy/Talk/blob/master/2019/Talk_DatavizMeetup_Montpellier2019.pdf), [Website](https://www.data-to-viz.com)
