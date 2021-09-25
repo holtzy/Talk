@@ -1,7 +1,9 @@
 ## 2020
+- *From Data to Visualization*. Data Visualization Workshop organized by BPLIM. **Porto, Portugal**. [Video](https://www.youtube.com/playlist?list=PLUZo4TFBklMYZhiVPzuV_Oxaqay2WbQIM)
 
 - *How to pick the right chart for your data analysis*. 2h course for the student of the ENSA toulouse. **Toulouse, France**. [Website](https://www.data-to-viz.com)
 
+<br>
 
 ## 2019
 
