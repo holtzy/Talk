@@ -1,3 +1,8 @@
+## 2020
+
+- *How to pick the right chart for your data analysis*. 2h course for the student of the ENSA toulouse. **Toulouse, France**. [Website](https://www.data-to-viz.com)
+
+
 ## 2019
 
 - *From Data to Viz | A classification of chart types based on input data format*. Dataviz Meetup 2019. **Toulouse, France**. [slides](https://github.com/holtzy/Talk/blob/master/2019/Talk_DatavizMeetup_Toulouse2019.pdf), [Website](https://www.data-to-viz.com)
