@@ -1,6 +1,6 @@
 ## 2021
 
-- *Choosing the right chart for your data*. 2h course for the Royal Belgian Zoological Society. **Remote, Belgium**. [Website](https://www.data-to-viz.com), [Slides]()
+- *Choosing the right chart for your data*. 2h workshop for the Royal Belgian Zoological Society. **Remote, Belgium**. [Website](https://www.data-to-viz.com), [Slides]()
 
 <br>
 
