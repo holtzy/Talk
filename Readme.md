@@ -1,3 +1,9 @@
+## 2021
+
+- *Choosing the right chart for your data*. 2h course for the Royal Belgian Zoological Society. **Remote, Belgium**. [Website](https://www.data-to-viz.com), [Slides]()
+
+<br>
+
 ## 2020
 - *From Data to Visualization*. Data Visualization Workshop organized by BPLIM. **Porto, Portugal**. [Video](https://www.youtube.com/playlist?list=PLUZo4TFBklMYZhiVPzuV_Oxaqay2WbQIM)
 
