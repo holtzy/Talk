@@ -1,8 +1,11 @@
 ## 2021
 
+- *Choosing the right chart for your data*. 2h workshop for the Netherlands Society for Statistics and Operations Research. **Remote, the Netherland**. [Website](https://www.data-to-viz.com), [Slides](https://github.com/holtzy/Talk/blob/master/2021/Talk_NetherlandSocietyStatistics.pdf)
+
 - *Make your data science report a website. In 10 minutes.* 30 min lecture for engineering students at the EPF. **Montpellier, France**. [Repo](https://github.com/holtzy/data_analysis_website), [Slides](https://github.com/holtzy/data_analysis_website)
 
 - *Choosing the right chart for your data*. 2h workshop for the Royal Belgian Zoological Society. **Remote, Belgium**. [Website](https://www.data-to-viz.com), [Slides](https://github.com/holtzy/Talk/blob/master/2021/Talk_BelgianZooSociety.pdf)
+
 
 <br>
 
