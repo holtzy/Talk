@@ -1,3 +1,9 @@
+## 2022
+
+- *Data Visualisation: De la Visualisation au Software Engineering*. Interview for the [Data Workers](https://www.data-workers.com/podcast/) podcast . **Remote**. [Website](https://www.data-workers.com/podcast/), [Episode](https://www.data-workers.com/2022/02/03/14-data-visualisation-visualisation-software-engineering/)
+
+<br>
+
 ## 2021
 
 - *Choosing the right chart for your data*. 2h workshop for the Netherlands Society for Statistics and Operations Research. **Remote, the Netherland**. [Website](https://www.data-to-viz.com), [Slides](https://github.com/holtzy/Talk/blob/master/2021/Talk_NetherlandSocietyStatistics.pdf)
