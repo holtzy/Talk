@@ -1,8 +1,11 @@
 ## 2022
 
+- *Choosing the right chart for your data*. 1h workshop for AstraZeneca. **Remote**. [Website](https://www.data-to-viz.com), [Slides](https://github.com/holtzy/Talk/blob/master/2022/Talk_AstraZeneca.pdf)
+
 - *A tour of data-to-viz.com and the graph galleries*. Talk for the [Advanced Data and Information Visualization](https://www.hks.harvard.edu/courses/advanced-data-and-information-visualization) course of Harvard university. **Remote**. [Website](https://www.data-to-viz.com)
 
 - *Data Visualisation: De la Visualisation au Software Engineering*. Interview for the [Data Workers](https://www.data-workers.com/podcast/) podcast . **Remote**. [Website](https://www.data-workers.com/podcast/), [Episode](https://www.data-workers.com/2022/02/03/14-data-visualisation-visualisation-software-engineering/)
+
 
 <br>
 
