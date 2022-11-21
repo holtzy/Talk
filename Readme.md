@@ -1,6 +1,6 @@
 ## 2022
 
-- *What do my 150 favorite viz have in common?*. Talk for the Toulouse Dataviz Meetup. **Toulouse, France**. [Website](https://www.dataviz-inspiration.com), [Slides](https://github.com/holtzy/Talk/blob/master/2022/What-is-a-impactful-chart.pdf)
+- *What do my 150 favorite viz have in common?*. Talk for the Toulouse Dataviz Meetup. **Toulouse, France**. [Website](https://www.dataviz-inspiration.com), [Slides](https://github.com/holtzy/Talk/blob/master/2022/What-is-a-impactful-chart.pdf), [video](https://www.youtube.com/watch?v=GIOJfiT8A_s)
 
 - *Choosing the right chart for your data*. 1h workshop for AstraZeneca. **Remote**. [Website](https://www.data-to-viz.com), [Slides](https://github.com/holtzy/Talk/blob/master/2022/Talk_AstraZeneca.pdf)
 
