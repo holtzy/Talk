@@ -2,6 +2,8 @@
 
 - *What do my 150 favorite viz have in common?*. Talk for the Toulouse Dataviz Meetup. **Toulouse, France**. [Website](https://www.dataviz-inspiration.com), [Slides](https://github.com/holtzy/Talk/blob/master/2022/What-is-a-impactful-chart.pdf), [video](https://www.youtube.com/watch?v=GIOJfiT8A_s)
 
+- *Interview for the youTube channel "Papotage Scientifique"*. **Montpellier, France**. [Video](https://www.youtube.com/watch?v=D3suqEG82vg)
+
 - *Choosing the right chart for your data*. 1h workshop for AstraZeneca. **Remote**. [Website](https://www.data-to-viz.com), [Slides](https://github.com/holtzy/Talk/blob/master/2022/Talk_AstraZeneca.pdf)
 
 - *A tour of data-to-viz.com and the graph galleries*. Talk for the [Advanced Data and Information Visualization](https://www.hks.harvard.edu/courses/advanced-data-and-information-visualization) course of Harvard university. **Remote**. [Website](https://www.data-to-viz.com)
