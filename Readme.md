@@ -1,5 +1,11 @@
 ## 2023
 
+- *Elevating Data Analysis, a roadmap for researchers*. **Brisbane, Australia and Remote**. [Website](https://www.productive-web-workflow.com), [Slides](https://github.com/holtzy/Talk/blob/master/2024/elevating_data_analysis_UQ.pdf)
+
+<br>
+
+## 2023
+
 - *Productive R Workflow*. **Paris, France**. [Website](https://www.productive-web-workflow.com), [Slides](https://docs.google.com/presentation/d/1R_yvs3a9sagbA6CmQGHzk9LLUc9So0fedDKhTq0PCgM/edit#slide=id.p)
 
 - *R in the Dataviz Universe*. Keynote at the R french national conference. **Avignon, France**. [Website](https://rr2023.sciencesconf.org/program), [Slides](https://github.com/holtzy/Talk/blob/master/2023/R_in_Dataviz_universe.pdf), [Recording](https://www.youtube.com/watch?v=RrRXcC4KOzc&list=PLC0_Y4EpEglVaDSXFiqn_lm1v_lcjMDki&index=7)
