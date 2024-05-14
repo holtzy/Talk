@@ -4,7 +4,7 @@
 
 - *Choosing the right chart for your data*. 1h workshop for the MIT. **Remote**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
 
-- *Productive R Workflow*. 1h workshop for the National Institute of Statistics and Economic Studies. **Remote**. [Website](https://www.productive-web-workflow.com), [Slides](https://docs.google.com/presentation/d/15MdEbeFOdoav60Z-lUz09O9TGdOb0eQVN6zc3--ZnVw/edit#slide=id.p)
+- *Productive R Workflow*. 1h workshop for the National Institute of Statistics and Economic Studies. **Remote**. [Website](https://www.productive-web-workflow.com), [Slides](https://docs.google.com/presentation/d/15MdEbeFOdoav60Z-lUz09O9TGdOb0eQVN6zc3--ZnVw/edit#slide=id.p), [Replay](https://insee-fr.zoom.us/rec/share/zL_ILy2350NdhlEkM7i-FcNOXmVuV6hFBZpa5HmN7yO9j-7Mlm3gsPQiY22YIIvQ.wRSs0FwtL9hK5r11)
 
 <br>
 
