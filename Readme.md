@@ -1,5 +1,8 @@
 ## 2024
 
+- *Choosing the right chart for your data*. 2h talk for the R-Ladies Abuja Meetup. **Remote & Abuja, Nigeria**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
+
+
 - *Elevating Data Analysis, a roadmap for researchers*. **Brisbane, Australia and Remote**. [Website](https://www.productive-web-workflow.com), [Slides](https://github.com/holtzy/Talk/blob/master/2024/elevating_data_analysis_UQ.pdf)
 
 - *Choosing the right chart for your data*. 1h workshop for the MIT. **Remote**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
