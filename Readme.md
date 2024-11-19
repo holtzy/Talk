@@ -1,5 +1,7 @@
 ## 2024
 
+- *Choosing the right chart for your data*. 1.5h talk for the University of Oman. **Remote & Oman**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
+
 - *Choosing the right chart for your data*. 1.5h talk for the Netherlands Court of Audit. **Remote & The Netherlands**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
 
 - *Choosing the right chart for your data*. 2h talk for the R-Ladies Abuja Meetup. **Remote & Abuja, Nigeria**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
