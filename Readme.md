@@ -1,5 +1,9 @@
 ## 2024
 
+- *How to make a chart: overview of the dataviz tools*. **Paris! 🇫🇷**. [Slides](https://docs.google.com/presentation/d/14zwD7zMSGqNT5f5k-U6Jt4RBMc9dJllWCeGSilPPWLA/edit#slide=id.p70)
+
+- *My dataviz process to win a dataviz challenge in 48h*. 1h talk for the United Nations dataviz course. **Remote & Japan**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
+
 - *Choosing the right chart for your data*. 1.5h talk for the University of Oman. **Remote & Oman**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642), [Recording](https://www.youtube.com/watch?v=864lW5TfNuw)
 
 - *Choosing the right chart for your data*. 1.5h talk for the Netherlands Court of Audit. **Remote & The Netherlands**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
