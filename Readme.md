@@ -1,3 +1,8 @@
+## 2025
+
+- *Choosing the right chart for your data*. 1h talk for the Swiss Transplant organization. **Remote & Switzerland**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
+
+
 ## 2024
 
 - *How to make a chart: overview of the dataviz tools*. talk for the Hymaïa meetup. **Paris! 🇫🇷**. [Slides](https://docs.google.com/presentation/d/14zwD7zMSGqNT5f5k-U6Jt4RBMc9dJllWCeGSilPPWLA/edit#slide=id.p70)
