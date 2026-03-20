@@ -1,6 +1,8 @@
 ## 2026
 
-- *How AI Is Changing Data Visualization (and What Comes Next). **Remote & US**. [Website](https://www.d3-loves-react.com), [Slides](https://docs.google.com/presentation/d/1lPaDVrzEHRLwV4B025vLK4xWeZW2JQ5gZ6rbmLKocRg/edit?slide=id.g3c8494fe172_0_0#slide=id.g3c8494fe172_0_0), [recording](https://drive.google.com/file/d/11t8LwE2RHbo1CsFqjjosR2njO86ycKhy/view)
+- How AI Is Changing Data Visualization (and What Comes Next). **Remote & US**. [Website](https://www.d3-loves-react.com), [Slides](https://docs.google.com/presentation/d/1lPaDVrzEHRLwV4B025vLK4xWeZW2JQ5gZ6rbmLKocRg/edit?slide=id.g3c8494fe172_0_0#slide=id.g3c8494fe172_0_0), [recording](https://drive.google.com/file/d/11t8LwE2RHbo1CsFqjjosR2njO86ycKhy/view)
+
+- How AI Is Changing Data Visualization (and What Comes Next). **Norther Illinois University**. [Website](https://www.d3-loves-react.com), [Slides](https://docs.google.com/presentation/d/1lPaDVrzEHRLwV4B025vLK4xWeZW2JQ5gZ6rbmLKocRg/edit?slide=id.g3c8494fe172_0_0#slide=id.g3c8494fe172_0_0), [recording](https://drive.google.com/file/d/11t8LwE2RHbo1CsFqjjosR2njO86ycKhy/view)
 
 
 ## 2025
