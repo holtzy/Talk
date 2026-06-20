@@ -1,6 +1,6 @@
 ## 2026
 
-- Podcast: Mehdi
+- Explain Analyse Podcast. Episode where we talk about all things Dataviz & AI. Invited by Mehdi Ouazza. [episode](https://motherduck.com/explain-analyze/0005-data-viz-javascript/)
 
 - Opening of the Pacific Dataviz Challenge kick-off conference. **Remote & Pacific Islands** [website](http://pacificdatavizchallenge.org)
 
