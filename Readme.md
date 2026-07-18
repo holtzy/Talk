@@ -1,5 +1,7 @@
 ## 2026
 
+- *Choosing the right chart for your data*. 1.30h talk for the [IntBioTech](https://intbiotech.ca/4th-summer-symposium-2026-07/) symposium. **Remote & Canada**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
+
 - Dataviz + AI + D3.js? The future of datavisualization. Tak at the Outlier Conf (Day 2). [webpage](https://outlier2026.vfairs.com/en/agenda-page)
 
 - Explain Analyse Podcast. Episode where we talk about all things Dataviz & AI. Invited by Mehdi Ouazza. [episode](https://motherduck.com/explain-analyze/0005-data-viz-javascript/)
