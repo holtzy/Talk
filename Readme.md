@@ -2,6 +2,8 @@
 
 - (Upcoming) *The Future of DataViz: How AI, D3, and React Are Taking Over*. 1h talk for the [Data ChangeMakers](www.datachangemakers.org) organization. **Remote & Canada**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
 
+- *Choosing the right chart for your data*. 2h talk for the [Douglas Research Center (McGill University)](https://douglas.research.mcgill.ca). **Remote & Montreal, Canada**. [Website](https://www.data-to-viz.com)
+
 - *50 Shades of Dataviz Frustration. And How to Get Out.* 1h talk for Morgan's Dependbush online community. **Remote & Worldwide** 600 ppl joining! [Recording](https://drive.google.com/file/d/1Bzl0lwcTCRbz9JAbPuLiW74AHOEHGr7L/view?usp=sharing)
 
 - *Choosing the right chart for your data*. 1.30h talk for the [IntBioTech](https://intbiotech.ca/4th-summer-symposium-2026-07/) symposium. **Remote & Canada**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
