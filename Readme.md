@@ -1,6 +1,6 @@
 ## 2026
 
-- (Upcoming) *The Future of DataViz: How AI, D3, and React Are Taking Over*. 1h talk for the [Data ChangeMakers](www.datachangemakers.org) organization. **Remote & Canada**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
+- *The Future of DataViz: How AI, D3, and React Are Taking Over*. 1h talk for the [Data ChangeMakers](www.datachangemakers.org) organization. **Remote & Canada**. [Website](https://www.data-to-viz.com), [Slides](https://docs.google.com/presentation/d/1PxTB7aKdC7RjBcvgVP3-j9vRqYiaVJUceLIrFAbQlFA/edit#slide=id.g2cb344269b7_1_642)
 
 - *Choosing the right chart for your data*. 2h talk for the [Douglas Research Center (McGill University)](https://douglas.research.mcgill.ca). **Remote & Montreal, Canada**. [Website](https://www.data-to-viz.com) [Recording](https://youtu.be/BGWdN3H175s?si=2nIqx3yTVpzc8rpm)
 
